@@ -56,10 +56,21 @@ If you use the code, consider citing our [paper](https://arxiv.org/abs/2406.0249
 }
 ```
 
-### RePlasma see also these papers:
-- [Niel2018](https://github.com/RePlasma/PhysRevE.97.043209)
-- [Endo2020](https://github.com/RePlasma/PhysRevLett.125.010501)
-- [Kubo2021](https://github.com/RePlasma/PhysRevA.103.052425)
-- [Alghassi2022](https://github.com/RePlasma/q-2022-06-07-730)
-- [Dasgupta2023](https://github.com/RePlasma/2208.13372)
-- [Sato2024](https://github.com/RePlasma/PhysRevResearch.6.033246)
+## RePlasma see also these papers:
+#### Radiation Reaction
+- [Shen 1971 PRL](https://github.com/RePlasma/PhysRevLett.28.455)
+- [Neitz 2013 PRL]() [Paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.054802)
+- [Neitz 2014 PRA]() [Paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.90.022102)
+- [Vranic 2016 NJP](https://github.com/RePlasma/Vranic_2016_New_J._Phys._18_073035)
+- [Niel 2018 PRE](https://github.com/RePlasma/PhysRevE.97.043209)
+- [Zhang 2023 MRE](https://github.com/RePlasma/5.0157663)
+- [Bilbao 2023 PRL](https://github.com/RePlasma/PhysRevLett.130.165101)
+- [Blackburn 2024 PRA](https://github.com/RePlasma/PhysRevA.109.022234)
+- [Bulanov 2024 FPP](https://github.com/RePlasma/j.fpp.2024.100036)
+
+#### Quantum Algorithms
+- [Endo 2020 PRL](https://github.com/RePlasma/PhysRevLett.125.010501)
+- [Kubo 2021 PRA](https://github.com/RePlasma/PhysRevA.103.052425)
+- [Alghassi 2022 Quantum](https://github.com/RePlasma/q-2022-06-07-730)
+- [Dasgupta 2023](https://github.com/RePlasma/2208.13372)
+- [Sato 2024 PhysRevRe](https://github.com/RePlasma/PhysRevResearch.6.033246)
