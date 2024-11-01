@@ -62,6 +62,7 @@ If you use the code, consider citing our [paper](https://arxiv.org/abs/2406.0249
 - [Neitz 2013 PRL]() [Paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.054802)
 - [Neitz 2014 PRA]() [Paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.90.022102)
 - [Vranic 2016 NJP](https://github.com/RePlasma/Vranic_2016_New_J._Phys._18_073035)
+- [Ridgers 2017 JPP](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/signatures-of-quantum-effects-on-radiation-reaction-in-laserelectronbeam-collisions/29DE2EE1FA9375440C85ED700DC1E98B)
 - [Niel 2018 PRE](https://github.com/RePlasma/PhysRevE.97.043209)
 - [Zhang 2023 MRE](https://github.com/RePlasma/5.0157663)
 - [Bilbao 2023 PRL](https://github.com/RePlasma/PhysRevLett.130.165101)
