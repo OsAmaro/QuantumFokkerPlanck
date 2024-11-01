@@ -59,6 +59,7 @@ If you use the code, consider citing our [paper](https://arxiv.org/abs/2406.0249
 ## RePlasma see also these papers:
 #### Radiation Reaction
 - [Shen 1971 PRL](https://github.com/RePlasma/PhysRevLett.28.455)
+- [DiPiazza 2008 LettMathPhys](https://github.com/RePlasma/DiPiazza2008/tree/main)
 - [Neitz 2013 PRL](https://github.com/RePlasma/PhysRevLett.111.054802)
 - [Neitz 2014 PRA](https://github.com/RePlasma/PhysRevA.90.022102)
 - [Yoffe 2015 NJP](https://github.com/RePlasma/Yoffe_2015_New_J._Phys._17_053025)
