@@ -1,0 +1,63 @@
+# Lines
+lines.linewidth: 2.0
+lines.markersize: 6.0
+
+# Font
+font.size: 20.0
+font.family: serif
+font.serif: Computer Modern Roman
+
+# Use TeX for text rendering
+text.usetex: True
+
+# Axes
+axes.labelsize: 20.0
+axes.titlesize: 20.0
+axes.linewidth: 1.0
+axes.grid: False
+#grid.linestyle: '--'
+#grid.linewidth: 0.5
+
+# Ticks
+xtick.labelsize: 20.0
+ytick.labelsize: 20.0
+xtick.direction: in
+ytick.direction: in
+xtick.major.size: 5
+ytick.major.size: 5
+xtick.minor.size: 3
+ytick.minor.size: 3
+xtick.major.width: 1.0
+ytick.major.width: 1.0
+xtick.minor.width: 0.75
+ytick.minor.width: 0.75
+xtick.minor.visible: True
+ytick.minor.visible: True
+
+# Make ticks use a higher zorder (but this will not fully ensure zorder like in `zorder` parameter)
+xtick.top: True
+ytick.right: True
+# Set a higher zorder for axes (ticks will naturally be on top of plots)
+axes.axisbelow: False
+
+# Tick Subdivision (LogLocator used for subdivision)
+#axes.xaxis.minor_locator: AutoMinorLocator()
+#axes.yaxis.minor_locator: AutoMinorLocator()
+
+# Legend
+legend.fontsize: 20.0
+legend.frameon: False
+legend.loc: best
+
+# Savefig
+savefig.dpi: 300
+savefig.format: pdf
+savefig.bbox: tight
+savefig.pad_inches: 0.1
+
+# Figure
+figure.figsize: 6.4, 4.8  # Adjust size for journals
+figure.dpi: 100
+
+# Color cycle (optional)
+#axes.prop_cycle: cycler('color', ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf'])
