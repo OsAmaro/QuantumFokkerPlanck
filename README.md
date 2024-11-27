@@ -2,57 +2,30 @@ Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiatio
 =============================================================================================================================
 
 <a href="https://arxiv.org/abs/2406.02491" style='vertical-align:middle; display:inline;'><img
-							src="https://img.shields.io/badge/plasm--ph-arXiv%3A2406.02491-B31B1B.svg" class="plain" style="height:25px;" /></a>
+							src="https://img.shields.io/badge/plasm--ph-arXiv%3A2411.17517-B31B1B.svg" class="plain" style="height:25px;" /></a>
 
-This repository contains the code developed in the paper by Ó. Amaro _et al._ ["Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction"](https://arxiv.org/abs/2406.02491) (2024).
+This repository contains the code developed in the paper by Ó. Amaro _et al._ ["Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction"](https://arxiv.org/abs/2411.17517) (2024).
 
 Authors of paper and repository: [Óscar Amaro](https://github.com/OsAmaro), [L. Gamiz](https://github.com/linigoga), M. Vranic
 
-Abstract: _Near-future experiments in Petawatt class laser scattering are expected to produce a high flux of gamma-ray photons and electron-positron pairs through Strong Field Quantum Electrodynamical processes. We study the stochastic cooling of an electron beam in a strong constant uniform magnetic field, both their particle distribution functions and their energy momenta. We apply the quantum-hybrid Variational Quantum Imaginary Time Evolution to the Fokker-Planck equation describing this process. We also obtain approximate closed-form analytical solutions, filling a gap in the literature. This work will be useful as a first step towards quantum simulation of strong-field plasma physics where diffusion processes are important_
+Abstract: _Near-future experiments with Petawatt class lasers are expected to produce a high flux of gamma-ray photons and electron-positron pairs through Strong Field Quantum Electrodynamical processes. Simulations of the expected regime of laser-matter interaction are computationally intensive due to the disparity of the spatial and temporal scales and because quantum and classical descriptions need to be accounted for simultaneously (classical for collective effects and quantum for nearly-instantaneous events of hard photon emission and pair creation). A typical configuration for experiments is a scattering of an electron and a laser beam which can be mapped to an equivalent problem with constant magnetic field. We study the stochastic cooling of an electron beam in a strong constant uniform magnetic field, both its particle distribution functions and their energy momenta. We start by obtaining approximate closed-form analytical solutions to the relevant observables. Then, we apply the quantum-hybrid Variational Quantum Imaginary Time Evolution to the Fokker-Planck equation describing this process, and compare against theory and results from Particle-In-Cell simulations and classical Partial Differential Equation solvers, showing good agreement. This work will be useful as a first step towards quantum simulation of plasma physics scenarios where diffusion processes are important, in particular in strong electromagnetic fields._
 
 ---
 
 
-## Introduction
-
-In this work we focus on
-
-
-## Directory Structure
-
-- ```models``` - directory where trained models are stored
-- ```scripts``` - example scripts on how to create datasets
-
-### OSIRIS
-
-The open-source version (currently without the ML modules) of the OSIRIS PIC code can be found [here](https://osiris-code.github.io/). To access the developer maintaned version with ML modules, see [here](https://epp.tecnico.ulisboa.pt/osiris/).
-
-
-
-### Reproducing Paper Results
-
-All figures in the manuscript should be reproducible following the instructions in the notebooks.
-
-
-
 ### Citation
 
-If you use the code, consider citing our [paper](https://arxiv.org/abs/2406.02491):
+If you use the code, consider citing our [paper](https://arxiv.org/abs/2411.17517):
 
 ```
-@misc{amaroNeuralNetworkSampling2024,
-  title = {Neural Network Sampling of {{Bethe-Heitler}} Process in Particle-in-Cell Codes},
-  author = {Amaro, {\'O}scar and Badiali, Chiara and Martinez, Bertrand},
-  year = {2024},
-  month = jun,
-  number = {arXiv:2406.02491},
-  eprint = {2406.02491},
-  primaryclass = {physics},
-  publisher = {arXiv},
-  urldate = {2024-06-05},
-  archiveprefix = {arXiv},
-  copyright = {All rights reserved},
-  keywords = {Physics - Computational Physics,Physics - Plasma Physics}
+@misc{amaro2024variationalquantumsimulationfokkerplanck,
+      title={Variational Quantum Simulation of the Fokker-Planck Equation applied to Quantum Radiation Reaction}, 
+      author={Óscar Amaro and Lucas I. Iñigo Gamiz and Marija Vranic},
+      year={2024},
+      eprint={2411.17517},
+      archivePrefix={arXiv},
+      primaryClass={physics.plasm-ph},
+      url={https://arxiv.org/abs/2411.17517}, 
 }
 ```
 
