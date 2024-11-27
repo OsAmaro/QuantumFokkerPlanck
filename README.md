@@ -1,7 +1,7 @@
 Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction
 =============================================================================================================================
 
-<a href="https://arxiv.org/abs/2406.02491" style='vertical-align:middle; display:inline;'><img
+<a href="https://arxiv.org/abs/2411.17517" style='vertical-align:middle; display:inline;'><img
 							src="https://img.shields.io/badge/plasm--ph-arXiv%3A2411.17517-B31B1B.svg" class="plain" style="height:25px;" /></a>
 
 This repository contains the code developed in the paper by Ó. Amaro _et al._ ["Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction"](https://arxiv.org/abs/2411.17517) (2024).
